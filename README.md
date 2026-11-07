@@ -73,7 +73,7 @@ My interests include **UX Design, Data Analysis, and Software Development**, wit
 
 **Architecture:** React · Python · Flask · PostgreSQL · REST API
 
-[View Repository →](https://github.com/yourusername/capstone)
+[View Repository →](https://github.com/Cristina-Figueroa/UPRMAcademicCalendar-2)
 
 ---
 
@@ -87,7 +87,7 @@ My interests include **UX Design, Data Analysis, and Software Development**, wit
 
 **Architecture:** UX Research · Wireframes · Paper Prototyping · Frontend · React Native
 
-[View Repository →](https://github.com/yourusername/noticenter)
+[View Repository →](https://github.com/Cristina-Figueroa/NotiCenterRUM)
 
 ---
 
@@ -101,7 +101,7 @@ A collection of projects completed through roadmap-guided learning, demonstratin
 
 **Stack:** HTML · CSS · Git · GitHub · Vercel · Deployment
 
-[View Repository →](https://github.com/yourusername/roadmap-projects)
+[View Repository →](https://github.com/Cristina-Figueroa/roadmap-projects)
 
 ---
 
@@ -113,7 +113,7 @@ A single-page HTML CV showcasing professional experience, education, and career 
 
 **Stack:** HTML · Semantic Markup
 
-[View Repository →](https://github.com/yourusername/single-page-cv)
+[View Repository →](https://github.com/Cristina-Figueroa/Single-Page-CV)
 
 ---
 
@@ -125,7 +125,7 @@ A multi-page HTML-only website demonstrating semantic HTML, structured content, 
 
 **Stack:** HTML · Metadata · Web Development
 
-[View Repository →](https://github.com/yourusername/multi-page-cv)
+[View Repository →](https://github.com/Cristina-Figueroa/Multiple-Pages-CV)
 
 ---
 
@@ -188,13 +188,14 @@ My goal is to build solutions **from data to decision** — transforming raw inf
 
 For my full professional background and career history:
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Digital Portfolio](https://yourportfolio.com/) · [All Repositories](https://github.com/yourusername?tab=repositories)
+[LinkedIn](https://linkedin.com/in/yourprofile) · [All Repositories](https://github.com/Cristina-Figueroa?tab=repositories) 
 
 ---
 
 
 <!-- <p align="center">
 📊 GitHub Statistics
+[Digital Portfolio](https://yourportfolio.com/) · 
 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cristina-Figueroa&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristina-Figueroa&layout=compact&theme=tokyonight" />
