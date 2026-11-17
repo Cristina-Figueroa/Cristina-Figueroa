@@ -1,11 +1,28 @@
-<h1 align="center">Hi, I'm Cristina Figueroa 👋</h1>
+
+
 
 <p align="center">
-  <a href="https://linkedin.com/in/cristina-figueroa-rosado">LinkedIn</a> ·
-  <a href="https://github.com/Cristina-Figueroa">GitHub</a> 
-  <!-- ·
-  <a href="https://yourportfolio.com/">Portfolio</a> -->
+  <img src="name-cristinafigueroa1.jpg" alt="Cristina Figueroa" width="600" />
 </p>
+
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/cristina-figueroa-rosado">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  
+  <a href="https://github.com/Cristina-Figueroa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!--
+  <a href="https://yourportfolio.com/">
+    <img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  -->
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Management-4479A1?style=for-the-badge" />
